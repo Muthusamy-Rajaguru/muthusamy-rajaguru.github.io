@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://muthusamy-rajaguru.github.io/muthusamyrajaguru.github.io/sitemap.xml
